@@ -1,0 +1,19 @@
+# Test files
+**/__tests__/**
+**/*.test.*
+**/*.spec.*
+src/test/**
+
+# Build output
+dist/
+build/
+
+# Dependencies
+node_modules/
+
+# Environment files
+.env*
+
+# Configuration files
+*.config.*
+vite-plugin-iframe-errors.ts
